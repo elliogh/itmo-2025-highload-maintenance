@@ -5,3 +5,5 @@
 [ДЗ №1](hw1/report.md)
 
 [ДЗ №2](hw2/report.md)
+
+[ДЗ №2](hw3/report.md)
