@@ -6,4 +6,4 @@
 
 [ДЗ №2](hw2/report.md)
 
-[ДЗ №2](hw3/report.md)
+[ДЗ №3](hw3/report.md)
