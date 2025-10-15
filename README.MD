@@ -7,3 +7,5 @@
 [ДЗ №2](hw2/report.md)
 
 [ДЗ №3](hw3/report.md)
+
+[ДЗ №4](hw4/report.md)
